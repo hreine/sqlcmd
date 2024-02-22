@@ -15,19 +15,19 @@ La utilidad sqlcmd es una utilidad de línea de comandos para la ejecución inte
 -P : Password
 -i : Input_file(Sql file location)
 
-Consulte aquí para obtener más sintaxis sobre sqlcmd.
+[Consulte aquí para obtener más sintaxis sobre sqlcmd.](https://learn.microsoft.com/en-us/sql/tools/sqlcmd/sqlcmd-utility?view=sql-server-2017&tabs=go%2Cwindows&pivots=cs1-bash)
 
 Además de sqlcmd, SQL Server proporciona la utilidad osql. Al igual que sqlcmd, osql se almacena en la subcarpeta ToolsBinn de instalación de SQL Server y se usa desde el símbolo del sistema. OSQL es una herramienta de línea de comandos que le permite emitir comandos a Microsoft SQL Server.
 
-The syntax is:
+La sintaxis es:
 
 ![image](https://github.com/hreine/sqlcmd/assets/4627226/2c8aa8b3-ac6d-4c4a-bec3-657035588735)
 
--S : <sq-server-name> - the name of the Sql Server, including instance.
--d : The name of the database on which the operation is to be performed.
--U : The SQL Server user account
--P : Password
--i : Input_file(Sql file location) 
+-S : <sq-server-name> - el nombre de Sql Server, incluida la instancia.
+-d : Nombre de la base de datos en la que se va a realizar la operación.
+-U : La cuenta de usuario de SQL Server
+-P : Contraseña
+-i : Input_file (ubicación del archivo SQL)
 
 Consulte aquí para obtener más información sobre la sintaxis de osql.
 
