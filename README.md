@@ -29,7 +29,7 @@ La sintaxis es:
 -P : Contraseña
 -i : Input_file (ubicación del archivo SQL)
 
-Consulte aquí para obtener más información sobre la sintaxis de osql.
+[Consulte aquí para obtener más información sobre la sintaxis de osql.](https://learn.microsoft.com/en-us/sql/tools/sqlcmd/sqlcmd-utility?view=sql-server-2017&tabs=go%2Cwindows&pivots=cs1-bash)
 
 Si desea restaurar directamente la base de datos maestra correspondiente del servidor. Utilizamos la siguiente sintaxis:
 ![Uploading image.png…]()
