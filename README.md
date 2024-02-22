@@ -10,10 +10,15 @@ La utilidad sqlcmd es una utilidad de línea de comandos para la ejecución inte
 ![image](https://github.com/hreine/sqlcmd/assets/4627226/30d03118-695a-4365-baa7-907bedb7e5dc)
 
 -S : [protocol:]server[instance_name][,port]
+
 -d : Db_name
+
 -U : Login_id
+
 -P : Password
+
 -i : Input_file(Sql file location)
+
 
 [Consulte aquí para obtener más sintaxis sobre sqlcmd.](https://learn.microsoft.com/en-us/sql/tools/sqlcmd/sqlcmd-utility?view=sql-server-2017&tabs=go%2Cwindows&pivots=cs1-bash)
 
@@ -24,10 +29,15 @@ La sintaxis es:
 ![image](https://github.com/hreine/sqlcmd/assets/4627226/2c8aa8b3-ac6d-4c4a-bec3-657035588735)
 
 -S : <sq-server-name> - el nombre de Sql Server, incluida la instancia.
+
 -d : Nombre de la base de datos en la que se va a realizar la operación.
+
 -U : La cuenta de usuario de SQL Server
+
 -P : Contraseña
+
 -i : Input_file (ubicación del archivo SQL)
+
 
 [Consulte aquí para obtener más información sobre la sintaxis de osql.](https://learn.microsoft.com/en-us/sql/tools/sqlcmd/sqlcmd-utility?view=sql-server-2017&tabs=go%2Cwindows&pivots=cs1-bash)
 
