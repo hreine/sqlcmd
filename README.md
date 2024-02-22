@@ -20,6 +20,7 @@ Consulte aquí para obtener más sintaxis sobre sqlcmd.
 Además de sqlcmd, SQL Server proporciona la utilidad osql. Al igual que sqlcmd, osql se almacena en la subcarpeta ToolsBinn de instalación de SQL Server y se usa desde el símbolo del sistema. OSQL es una herramienta de línea de comandos que le permite emitir comandos a Microsoft SQL Server.
 
 The syntax is:
+
 ![image](https://github.com/hreine/sqlcmd/assets/4627226/2c8aa8b3-ac6d-4c4a-bec3-657035588735)
 
 -S : <sq-server-name> - the name of the Sql Server, including instance.
@@ -32,4 +33,3 @@ Consulte aquí para obtener más información sobre la sintaxis de osql.
 
 Si desea restaurar directamente la base de datos maestra correspondiente del servidor. Utilizamos la siguiente sintaxis:
 ![Uploading image.png…]()
-
