@@ -43,3 +43,6 @@ La sintaxis es:
 
 Si desea restaurar directamente la base de datos maestra correspondiente del servidor. Utilizamos la siguiente sintaxis:
 ![Uploading image.png…]()
+
+[Descargar e instalar SQLCMD](https://learn.microsoft.com/en-us/sql/tools/sqlcmd/sqlcmd-utility?view=sql-server-ver16&tabs=go%2Cwindows&pivots=cs1-bash#download-and-install-sqlcmd)
+
